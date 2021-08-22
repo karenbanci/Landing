@@ -1,0 +1,27 @@
+#header{
+  text-align: center;
+  background-image: url("https://unsplash.it/1300/600?random");
+  background-size: cover;
+  padding: 150px;
+  color: white;
+  text-shadow: 1px 1px 5px black;
+}
+#header h1 {
+  color: white;
+  font-size: 50px;
+}
+#header p {
+  color: white;
+  opacity: 0.8;
+  font-size: 30px;
+  font-weight: lighter;
+}
+#footer{
+  padding: 30px;
+  background: rgb(30, 30, 30);
+  color: lightgrey;
+}
+.card{
+  padding: 50px;
+  font-weight: lighter;
+}
